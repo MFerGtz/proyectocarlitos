@@ -16,3 +16,4 @@ C:\Users\naty\Documents\Visual Studio 2013\Projects\proyectocarlitos\proyectocar
 C:\Users\naty\documents\visual studio 2013\Projects\proyectocarlitos\proyectocarlitos\obj\Debug\proyectocarlitos.modificarAlumno.resources
 C:\Users\naty\documents\visual studio 2013\Projects\proyectocarlitos\proyectocarlitos\obj\Debug\proyectocarlitos.modificarRepresentante.resources
 C:\Users\naty\documents\visual studio 2013\Projects\proyectocarlitos\proyectocarlitos\obj\Debug\proyectocarlitos.modificarEmpresa.resources
+C:\Users\Usuario\Documents\proyectocarlitos\proyectocarlitos\bin\Debug\proyectocarlitos.exe.config
